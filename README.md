@@ -1,2 +1,3 @@
-# Powerbi-Assignment-1
-Here is the dataset of a store, which has branches all over the world. The stakeholders require the detailed report on their sale transaction. Perform the basic data cleaning
+# Data Analysis using Power BI
+This Power BI report contains in depth analysis of financial records of products from various companies along with their sales and profit details.
+Various visuals are used for visualising this report, which includes slicers, cards, buttons, bookmarks, pie chart, stacked charts, images etc. 
